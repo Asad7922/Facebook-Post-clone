@@ -1,0 +1,65 @@
+.post-container{
+    margin: 100px 500px 0px ;
+    border: 1px solid rgb(255, 255, 255);
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.575), 0 6px 20px 0 rgba(0, 0, 0, 0.671);
+    height: 400px;
+    width: 300px;
+}
+.xheader {
+
+    background-color: #ffffff;
+    display: flex;
+    justify-content: space-between;
+    align-items: start;
+    color: rgb(0, 0, 0);
+   
+
+}
+
+.right-path ion-icon{
+  padding-top: 10px;
+  padding-left: 10px;
+
+   font-size: 40px;
+  
+
+}
+
+.right-path h2 {
+    padding-top: 5px;
+    font-size: 20px;
+    font-weight: 400;
+    padding-left: 5px;
+
+
+}
+
+.right-path {
+    display: flex;
+}
+
+.menu ul {
+    margin-top: 23px;
+
+    font-size: 20px;
+}
+
+.menu ul li {
+    display: inline;
+    padding: 5px;
+}
+.content-text p{
+    padding-left: 10px;
+    font-size: 15px;
+    font-weight: 600;
+}
+.react{
+    display: flex;
+    justify-content: space-between;
+    align-items: start;
+    font-size: 15px;
+    padding-top: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
